@@ -1,0 +1,16 @@
+Package: moe.misty.surge4-advanced-rootless
+Version: 0.0.2-16+debug
+Architecture: iphoneos-arm64
+Maintainer: misty
+Installed-Size: 96
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.surge4-advanced-rootless_0.0.2-16+debug_iphoneos-arm64.deb
+Size: 8652
+MD5sum: 24339fd5ba9cf38173a98f6005d9e8bb
+SHA1: 2d61aef6fe7259e82d76048c86802a429bda283b
+SHA256: 1026dae2d5d4f1781e101a8dc1d0462bbc475cdbc9cb7dbbe0a17037bf4a6c57
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced
+

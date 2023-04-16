@@ -1,0 +1,32 @@
+Package: cn.payne.fileball-rootless
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm64
+Maintainer: Pay Ne
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.fileball-rootless_0.0.1-8+debug_iphoneos-arm64.deb
+Size: 14758
+MD5sum: 9ccfe0be2ba9e27ad0bb1117ee87275f
+SHA1: a311aee91588941e22b4ed9ee2438136a17dd2ed
+SHA256: 55b3274a545c2d1e4038e7d44b24a42392ac2ffa8951d9ab6a50d964d3b12464
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: Fileball-Rootless
+
+Package: moe.misty.surge4-advanced-rootless
+Version: 0.0.2-21+debug
+Architecture: iphoneos-arm64
+Maintainer: misty
+Installed-Size: 96
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.surge4-advanced-rootless_0.0.2-21+debug_iphoneos-arm64.deb
+Size: 8658
+MD5sum: 9a2a6ec2e3a2c06eae2e71b18cf5217c
+SHA1: 6d887bb5182a995b66e8db172aaed235212fee1b
+SHA256: 3bb63464d5aea69e3a35f2693dd32c9cd34bd2f334408df96bc8a5a4a54ace7c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced-Rootless
+
