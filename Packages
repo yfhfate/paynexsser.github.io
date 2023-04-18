@@ -30,6 +30,25 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: StormSniffer-Rootless
 
+Package: jp.dcsyhi.zetsurootless15
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Installed-Size: 2464
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader
+Filename: ./debs/jp.dcsyhi.zetsurootless15_1.0_iphoneos-arm64.deb
+Size: 1846420
+MD5sum: 5e4dee083e3ce2a74b8dc96fbc24b22c
+SHA1: c981593d508edb9f8124b03f02c7336f25347b6a
+SHA256: 335bf0e8878aef96f2fd79b3c521dc97b32a8661cdf7e3ee45e3434b2674e592
+Section: Tweaks
+Description: Multitasking on iOS15.
+Author: Dcsyhi
+Depiction: https://dcsyhi1998.github.io/depiction/zetsu.html
+Icon: https://dcsyhi1998.github.io/icons/zetsu/zetsu.png
+Name: Zetsu(Rootless)
+Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Zetsu.json
+
 Package: moe.misty.surge4-advanced-rootless
 Version: 0.0.2-21+debug
 Architecture: iphoneos-arm64
