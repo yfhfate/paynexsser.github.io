@@ -14,6 +14,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: Fileball-Rootless
 
+Package: cn.payne.stormsniffer-rootless
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm64
+Maintainer: Pay Ne
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.stormsniffer-rootless_0.0.1-7+debug_iphoneos-arm64.deb
+Size: 4730
+MD5sum: 8068bbdd4f07251870f41871e654b67c
+SHA1: b6a3dbfa2f1c4a595ac4804d2f4207bd6cae5c2f
+SHA256: bc03ce854a51c87eb11e1c833df0e445abbc63a7cf1b58974bd2d5ae2ae1f328
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: StormSniffer-Rootless
+
 Package: moe.misty.surge4-advanced-rootless
 Version: 0.0.2-21+debug
 Architecture: iphoneos-arm64
