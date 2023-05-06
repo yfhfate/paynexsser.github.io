@@ -30,6 +30,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: StormSniffer-Rootless
 
+Package: cn.payne.workingcopy-rootless
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Pay Ne
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.workingcopy-rootless_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 3066
+MD5sum: d7432574d9e6436c6c3ef17e802dea6e
+SHA1: ae9ed23d8da2e0ef852a6242d43cbf11512732e3
+SHA256: b27392d82e15796c9219de82e6dfc38d30a184eb7d1e83c17ab69f171c31ecb9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: WorkingCopy-rootless
+
 Package: jp.dcsyhi.zetsurootless15
 Version: 1.0
 Architecture: iphoneos-arm64
