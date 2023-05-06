@@ -14,6 +14,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: Fileball-Rootless
 
+Package: cn.payne.pyto-rootless
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Pay Ne
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.pyto-rootless_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 2830
+MD5sum: a8447fc33653fa43b1f9f7f9e6a1dc0e
+SHA1: 07f6f927792178333af3c95c502138020884fe78
+SHA256: 933920daf92733e0d922726c988706d50914c429f65e3cd18a31d91c3c8235e9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: Pyto-rootless
+
 Package: cn.payne.stormsniffer-rootless
 Version: 0.0.1-7+debug
 Architecture: iphoneos-arm64
