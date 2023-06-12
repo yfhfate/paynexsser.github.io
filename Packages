@@ -82,16 +82,16 @@ Name: Zetsu(Rootless)
 Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Zetsu.json
 
 Package: moe.misty.surge4-advanced-rootless
-Version: 0.0.2-21+debug
+Version: 0.0.2-28+debug
 Architecture: iphoneos-arm64
 Maintainer: misty
-Installed-Size: 96
+Installed-Size: 100
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/moe.misty.surge4-advanced-rootless_0.0.2-21+debug_iphoneos-arm64.deb
-Size: 8658
-MD5sum: 9a2a6ec2e3a2c06eae2e71b18cf5217c
-SHA1: 6d887bb5182a995b66e8db172aaed235212fee1b
-SHA256: 3bb63464d5aea69e3a35f2693dd32c9cd34bd2f334408df96bc8a5a4a54ace7c
+Filename: ./debs/moe.misty.surge4-advanced-rootless_0.0.2-28+debug_iphoneos-arm64.deb
+Size: 9146
+MD5sum: 83683f14f35e67669572ca64be677161
+SHA1: 0e5c2441f3ef27ec89f82a3c2253f3a014617bd4
+SHA256: 3f66f1061eccdb5ae5be00d5f1832340dd209f1111a670469af9b762e89a07b9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: misty
