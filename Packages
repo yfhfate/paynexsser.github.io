@@ -1,3 +1,17 @@
+Package: cn.payne.Surge4Patch
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cn.payne.Surge4Patch_0.1-1_iphoneos-arm.deb
+Size: 22086
+MD5sum: fe10e48b831ac8095c1115fa99bb7985
+SHA1: 57724c3412da73e03831fb5e947b5d20e0d7a2de
+SHA256: ba93c6b46335d0752b445d7e92dcba8451a1c9584f3c4edbbde2bf11a616c1d7
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: Surge4Patch
+
 Package: cn.payne.fileball-rootless
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm64
