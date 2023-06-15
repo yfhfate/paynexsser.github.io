@@ -30,6 +30,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: Pyto-rootless
 
+Package: cn.payne.pytopatch
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Pay Ne
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.pytopatch_0.0.1-2+debug_iphoneos-arm.deb
+Size: 7296
+MD5sum: e103cc1e312317ae130308a74dd98cdf
+SHA1: eea0555b4a9413e9f41e3bad22dbf72d492f4905
+SHA256: 2a80bad74e85413c184b8912e1ce2e87c22efadde031a5a90cd184d36f576c2d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: PytoPatch
+
 Package: cn.payne.stormsniffer-rootless
 Version: 0.0.1-7+debug
 Architecture: iphoneos-arm64
@@ -62,6 +78,20 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: WorkingCopy-rootless
 
+Package: com.payne.Fileball
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.payne.Fileball_0.1-1_iphoneos-arm.deb
+Size: 22992
+MD5sum: 41effcd97b31f72d4e269dd54fd79e3f
+SHA1: 91b94781deaa1078ab294500eba04f451902fd33
+SHA256: 2004afd53cb5d62a8c6929abfd1520f7d9140e701383ea2e5e2173b5116efc01
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: Fileball
+
 Package: com.payne.StormSniffer
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -89,6 +119,22 @@ Section: System
 Priority: optional
 Author: Pay Ne
 Name: WorkingCopyHack
+
+Package: moe.misty.surge4-advanced
+Version: 0.0.2-14+debug
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.surge4-advanced_0.0.2-14+debug_iphoneos-arm.deb
+Size: 19038
+MD5sum: 2e97377bab453430339e578a86c25434
+SHA1: 579855895214e8d14ca34cd3f6b13f13b37d69db
+SHA256: 0d7df4801e28ba4b6a4f48c0d6339fefddaba0dc50ecc42c0ec0ea8b9a86d248
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced
 
 Package: moe.misty.surge4-advanced-rootless
 Version: 0.0.2-21+debug
