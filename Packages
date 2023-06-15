@@ -62,6 +62,34 @@ Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: WorkingCopy-rootless
 
+Package: com.payne.StormSniffer
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.payne.StormSniffer_0.1-1_iphoneos-arm.deb
+Size: 13570
+MD5sum: a94e603df7f67e51e4b4e15ca0e8a25f
+SHA1: b4720360999365418b51a07d19dd480575256d8f
+SHA256: 6bb4a20287c3088e53d7a8bef960b9a4e50e8ed9e860a62a8a5764c29144d675
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: StormSniffer
+
+Package: com.payne.WorkingCopyHack
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.payne.WorkingCopyHack_0.1-1_iphoneos-arm.deb
+Size: 11844
+MD5sum: ab556e8971285d70324cdd9df8d0cd6e
+SHA1: 5ebc256723a45eaaa3079edb20292ec08fae6b5a
+SHA256: f73baec4e39bcc5f8ee5e1cee0c0d1e40bc14c5396e4480e505bb9e3f65f26fd
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: WorkingCopyHack
+
 Package: moe.misty.surge4-advanced-rootless
 Version: 0.0.2-21+debug
 Architecture: iphoneos-arm64
