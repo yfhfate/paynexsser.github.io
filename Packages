@@ -1,3 +1,18 @@
+Package: cn.payne.Surge5Patch
+Version: 0.5.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cn.payne.Surge5Patch_0.5.2_iphoneos-arm.deb
+Size: 22318
+MD5sum: d0a9aa3fbd4fa6cff0ddc745a420edc0
+SHA1: 1d8750835469c37980549ce0a879c59577e33ae0
+SHA256: 633843477a7182dfaee024b6f20baeacfeab4692bac93137a25cb9486bfd0e9c
+Section: System
+Priority: optional
+Description: Surge5解锁,支持5.5.1,5.5.2
+Author: Pay Ne
+Name: Surge5Patch
+
 Package: cn.payne.fileball-rootless
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm64
@@ -61,6 +76,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Pay Ne
 Name: StormSniffer-Rootless
+
+Package: cn.payne.surge5patch-rootless
+Version: 0.5.2-4+debug
+Architecture: iphoneos-arm64
+Installed-Size: 100
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.surge5patch-rootless_0.5.2-4+debug_iphoneos-arm64.deb
+Size: 9780
+MD5sum: a20119b11e4c3f2052304aa8d57a2ccd
+SHA1: a63161cae101f6044090ea2e31e06135da248ea4
+SHA256: dd0baa8de385a677488ad6f38a8fe77232c574b82590e0b7fdf536d0a7200f79
+Section: Tweaks
+Description: Surge5解锁,支持5.5.1,5.5.2
+Author: Pay Ne
+Name: Surge5Patch-Rootless
 
 Package: cn.payne.workingcopy-rootless
 Version: 0.0.1-1+debug
