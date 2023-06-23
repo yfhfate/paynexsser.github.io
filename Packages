@@ -120,35 +120,3 @@ Priority: optional
 Author: Pay Ne
 Name: WorkingCopyHack
 
-Package: moe.misty.surge4-advanced
-Version: 0.0.2-14+debug
-Architecture: iphoneos-arm
-Maintainer: misty
-Installed-Size: 224
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/moe.misty.surge4-advanced_0.0.2-14+debug_iphoneos-arm.deb
-Size: 19038
-MD5sum: 2e97377bab453430339e578a86c25434
-SHA1: 579855895214e8d14ca34cd3f6b13f13b37d69db
-SHA256: 0d7df4801e28ba4b6a4f48c0d6339fefddaba0dc50ecc42c0ec0ea8b9a86d248
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: misty
-Name: Surge4Advanced
-
-Package: moe.misty.surge4-advanced-rootless
-Version: 0.0.2-21+debug
-Architecture: iphoneos-arm64
-Maintainer: misty
-Installed-Size: 96
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/moe_misty_surge4_advanced_rootless_0_0_2_21+debug_iphoneos_arm64.deb
-Size: 8658
-MD5sum: 9a2a6ec2e3a2c06eae2e71b18cf5217c
-SHA1: 6d887bb5182a995b66e8db172aaed235212fee1b
-SHA256: 3bb63464d5aea69e3a35f2693dd32c9cd34bd2f334408df96bc8a5a4a54ace7c
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: misty
-Name: Surge4Advanced-Rootless
-
